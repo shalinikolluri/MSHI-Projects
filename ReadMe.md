@@ -13,10 +13,12 @@ HS 610: Perspectives on Health Informatics</p>
 <p><a href="https://docs.google.com/presentation/d/12TLmYNWAcNC2xt3bJKawa2T614wfWOdJZD5AMYMcNTE/edit?usp=sharing">Better Ways To Visualize And Analyze Blood Reports - SMART Apps Case Study</a><br>
 HS 611: Semantic Organization Of Health Information And Data Standards</p>
 <h3 id="fall-2019">Fall 2019</h3>
-<p><strong>Upcoming: Can Graph Models Help Identify Patterns To Improve Patient Outcomes?</strong><br>
-Fall 2019, HS 699: Advanced Analytics Using Graphs<br>
-Fall 2019, HS 651: Project in Health Informatics<br>
-See the <a href="https://drive.google.com/file/d/1j0V4Yj24s69nCJii-V-HF-MhL3-VLD5C/view?usp=sharing">proposal here</a>.</p>
+<p><strong>Can Graph Models Help Identify Patterns To Improve Patient Outcomes?</strong><br>
+<a href="https://docs.google.com/document/d/1D_8tLH7tJcsnNF-d3ErA58yz048B4X1X1OAa6IxdI10/edit?usp=sharing">Graph Model for Sepsis Care</a><br>
+HS 699: Advanced Analytics Using Graphs</p>
+<p><a href="https://docs.google.com/presentation/d/14bART3kuvYsgqBmCpXskdPKp5g5Cn-D_ArXAYyN_OH8/edit#slide=id.p">Sepsis Retroboard - Clinical Dashboard for Retrospective Analysis</a><br>
+HS 651: Project in Health Informatics<br>
+See related Tableau visualizations <a href="https://public.tableau.com/profile/shalini2493#!/">here</a>.</p>
 <hr>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
